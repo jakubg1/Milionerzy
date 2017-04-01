@@ -1,0 +1,22 @@
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\MainWindow.baml
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\MainWindow.g.cs
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\App.g.cs
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\Milionerzy_MarkupCompile.cache
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\Milionerzy.g.resources
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\Milionerzy.Properties.Resources.resources
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\Milionerzy.csproj.GenerateResource.Cache
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\Milionerzy.exe
+C:\Users\beata\AppData\Local\Temporary Projects\Milionerzy\obj\x86\Debug\Milionerzy.pdb
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\Milionerzy.exe
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\Milionerzy.pdb
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\MainWindow.baml
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\MainWindow.g.cs
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\App.g.cs
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\Milionerzy_MarkupCompile.cache
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\Milionerzy.g.resources
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\Milionerzy.Properties.Resources.resources
+C:\Users\beata\Documents\Teleturnieje\Milionerzy w C#\Milionerzy\Milionerzy\obj\x86\Debug\Milionerzy.csproj.GenerateResource.Cache

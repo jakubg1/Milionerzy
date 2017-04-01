@@ -1,0 +1,12 @@
+wygrana0 = w500.wav
+wygrana1 = wgwarant.wav
+wygrana2 = w2k.wav
+wygrana3 = w5k.wav
+wygrana4 = w10k.wav
+wygrana5 = w20k.wav
+wygrana6 = wgwarant.wav
+wygrana7 = w75k.wav
+wygrana8 = w125k.wav
+wygrana9 = w250k.wav
+wygrana10 = w500k.wav
+wygrana11 = w1000k.wav
